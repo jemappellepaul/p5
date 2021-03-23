@@ -1,0 +1,13 @@
+{
+    "name": "paul/paul",
+    "authors": [{
+        "name": "Paul",
+        "email": "pololeparc@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "P5\\": "src"
+        }
+    },
+    "require": {}
+}
